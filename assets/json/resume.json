@@ -28,7 +28,7 @@
       "position": "simple student",
       "url": "http://www.iust.ac.ir/",
       "startDate": "12.8.1402",
-      "endDate": "?.?.1410",
+      "endDate": "?",
       "summary": "studying in CE",
       "highlights": ["Othello"]
     }
@@ -52,7 +52,7 @@
       "area": "Software Development",
       "studyType": "bachelor",
       "startDate": "12.8.1402",
-      "endDate": "?.?.1410",
+      "endDate": "?",
       "score": "21",
       "courses": ["NOTHING"]
     }
@@ -82,55 +82,55 @@
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Driving licence",
+      "date": "1402.5.15",
+      "issuer": "FARAJA",
+      "url": "https://www.rahvar120.ir",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Speaking Eng",
+      "date": "?",
+      "issuer": "TOEFL",
+      "url": "https://www.ets.org/toefl.html",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "speak Arabi",
+      "date": "?",
+      "issuer": "high-school",
+      "url": "https://hamgam.medu.ir",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Airplane flight certificate",
+      "date": "?",
+      "issuer": "CAA",
+      "url": "https://caa.gov.ir/",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
+      "name": "Parallel Worlds",
       "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "releaseDate": "19.2.2006",
+      "url": "https://www.amazon.com/Parallel-Worlds-Journey-Creation-Dimensions/dp/1400033721",
+      "summary": "Parallel Worlds: A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos Paperback "
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Mysteries of Modern Physics",
+      "publisher": "The Teaching Company",
+      "releaseDate": "2012.1.16",
+      "url": "https://www.amazon.com/Mysteries-Modern-Physics-Sean-Carroll/dp/1598038702",
+      "summary": "Time is a mysterious force that affects everything, with an apparent arrow in some events but none at the atomic level. Entropy, a key component of the second law of thermodynamics, helps explain this paradox. The search for understanding draws on ideas from fields like black holes, cosmic inflation, and dark energy, leading to the question of what existed before the big bang. (24 engaging lectures by Professor Sean Carroll)"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Quantum Physics for Beginners",
+      "publisher": "Carl J. PrattCarl J. Pratt",
+      "releaseDate": "14.3.2021",
+      "url": "https://www.amazon.com/Quantum-Physics-Beginners-Understanding-Explanation/dp/B08YQJD281/ref=sr_1_34?keywords=Scientific+Books&qid=1705793146&sr=8-34",
+      "summary": "From Wave Theory to Quantum Computing. Understanding How Everything Works by a Simplified Explanation of Quantum Physics and"
     }
   ],
   "skills": [
@@ -178,12 +178,12 @@
     {
       "name": "Professor Hesam EmamGholi Nejad",
       "icon": "fa-solid fa-laptop",
-      "reference": "Gangester Amol"
+      "reference": "Mechanic Elmos"
     },
     {
       "name": "Professor Amir reze Samari khalaj",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "koshe talii Save"
+      "reference": "CE ELMOS"
     }
   ],
   "projects": [
