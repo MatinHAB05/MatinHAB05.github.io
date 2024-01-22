@@ -18,5 +18,5 @@ This is a friend's project that I tried it.
 </div>
 
 <div class="caption">
-      of course it is not complete yet...
+        Not too bad for the first term , right?!
 </div>
