@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Covid Game
+description: My friend's computer basics project
+img: assets/img/covid.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: C code
 ---
 
 Every project has a beautiful feature showcase page.
