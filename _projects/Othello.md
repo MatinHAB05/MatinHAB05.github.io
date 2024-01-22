@@ -1,10 +1,10 @@
 ---
 layout: page
-title: O
-description: a project with a background image
-img: assets/img/12.jpg
+title: Othello
+description: C code for Othelleo
+img: assets/img/oth.jpg
 importance: 1
-category: work
+category: C code
 related_publications: true
 ---
 
