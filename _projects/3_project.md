@@ -3,7 +3,6 @@ layout: page
 title: Covid Game
 description: My friend's computer basics project
 img: assets/img/covid.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
