@@ -5,7 +5,6 @@ description: C code for XO game
 img: assets/img/xo.jpg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 This is an other project that I tried to simulate XO game.
