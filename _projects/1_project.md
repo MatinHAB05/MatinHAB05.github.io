@@ -4,7 +4,7 @@ title: Othello
 description: C code for Othelleo
 img: assets/img/oth.jpg
 importance: 1
-category: C code
+category: Ccode
 related_publications: true
 ---
 
