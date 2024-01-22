@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: no projects
+description: test for CW
+img: assets/img/test.jpg
 importance: 3
-category: fun
+category: testing
 ---
 
 Every project has a beautiful feature showcase page.
