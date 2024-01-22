@@ -5,7 +5,6 @@ description: C code for Othelleo
 img: assets/img/oth.jpg
 importance: 1
 category: work
-related_publications: true
 ---
 
 ---
