@@ -4,7 +4,7 @@ title: XO game
 description: C code for XO game
 img: assets/img/xo.jpg
 importance: 2
-category: C code
+category: Ccode
 giscus_comments: true
 ---
 
