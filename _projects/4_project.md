@@ -3,7 +3,7 @@ layout: page
 title: no projects
 description: test for CW
 img: assets/img/test.jpg
-importance: 3
+importance: 1
 category: testing
 ---
 
