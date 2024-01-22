@@ -3,8 +3,8 @@ layout: page
 title: no projects
 description: test for CW
 img: assets/img/test.jpg
-importance: 1
-category: testing
+importance: 4
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
